@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f440b54-a6c3-49dd-b9cb-419ce00289b9" name="Changes" comment="aula2 - atividade de classe" />
+    <list default="true" id="5f440b54-a6c3-49dd-b9cb-419ce00289b9" name="Changes" comment="aula2 - atividade de classe">
+      <change afterPath="$PROJECT_DIR$/atividades/PDI/Aula_1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividades/PDI/Aula_1/code1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividades/PDI/Aula_1/code2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividades/PDI/Aula_1/code3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividades/PDI/Aula_1/code4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividades/PDI/Aula_1/code5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividades/PDI/Aula_1/code6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividades/PDI/Aula_1/imgs/chess_gray.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividades/PDI/Aula_1/imgs/flipped_seville.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividades/PDI/Aula_1/imgs/lena.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividades/PDI/Aula_1/imgs/page.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividades/PDI/Aula_1/imgs/red_roses.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividades/PDI/Aula_1/imgs/woman.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividades/PDI/src/pdi_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,16 +38,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/leocassio/PycharmProjects/computacao-cognitiva/atividades/NLP&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.build&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/leocassio/PycharmProjects/computacao-cognitiva/atividades",
+    "settings.editor.selected.configurable": "configurable.group.build"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/atividades" />
       <recent name="$PROJECT_DIR$/atividades/NLP" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -39,8 +56,8 @@
       <recent name="$PROJECT_DIR$/atividades" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.code5">
-    <configuration name="code1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.code2 (1)">
+    <configuration name="code1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="computacao-cognitiva" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,11 +65,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/atividades/NLP/Aula_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/atividades/PDI/Aula_1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/atividades/NLP/Aula_2/code1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/atividades/PDI/Aula_1/code1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -61,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="code2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="code2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="computacao-cognitiva" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,11 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/atividades/NLP/Aula_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/atividades/PDI/Aula_1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/atividades/NLP/Aula_2/code2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/atividades/PDI/Aula_1/code2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.code2 (1)" />
+        <item itemvalue="Python.code1 (1)" />
         <item itemvalue="Python.code5" />
         <item itemvalue="Python.code4" />
         <item itemvalue="Python.code3" />
-        <item itemvalue="Python.code2" />
-        <item itemvalue="Python.code1" />
       </list>
     </recent_temporary>
   </component>
