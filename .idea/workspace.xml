@@ -4,22 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f440b54-a6c3-49dd-b9cb-419ce00289b9" name="Changes" comment="aula2 - atividade de classe">
-      <change afterPath="$PROJECT_DIR$/atividades/PDI/Aula_1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades/PDI/Aula_1/code1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades/PDI/Aula_1/code2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades/PDI/Aula_1/code3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades/PDI/Aula_1/code4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades/PDI/Aula_1/code5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades/PDI/Aula_1/code6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades/PDI/Aula_1/imgs/chess_gray.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades/PDI/Aula_1/imgs/flipped_seville.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades/PDI/Aula_1/imgs/lena.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades/PDI/Aula_1/imgs/page.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades/PDI/Aula_1/imgs/red_roses.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades/PDI/Aula_1/imgs/woman.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades/PDI/src/pdi_utils.py" afterDir="false" />
+    <list default="true" id="5f440b54-a6c3-49dd-b9cb-419ce00289b9" name="Changes" comment="PDI">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atividades/PDI/Aula_1/code5.py" beforeDir="false" afterPath="$PROJECT_DIR$/atividades/PDI/Aula_1/code5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atividades/PDI/Aula_1/code6.py" beforeDir="false" afterPath="$PROJECT_DIR$/atividades/PDI/Aula_1/code6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,14 +26,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/leocassio/PycharmProjects/computacao-cognitiva/atividades",
-    "settings.editor.selected.configurable": "configurable.group.build"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/leocassio/PycharmProjects/computacao-cognitiva/atividades&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.build&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/atividades" />
@@ -195,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652790910648</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="PDI">
+      <created>1653771158707</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653771158707</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -212,7 +207,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="aula1 - atividade de classe" />
     <MESSAGE value="aula2 - atividade de classe" />
-    <option name="LAST_COMMIT_MESSAGE" value="aula2 - atividade de classe" />
+    <MESSAGE value="PDI" />
+    <option name="LAST_COMMIT_MESSAGE" value="PDI" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
