@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f440b54-a6c3-49dd-b9cb-419ce00289b9" name="Changes" comment="PDI">
+    <list default="true" id="5f440b54-a6c3-49dd-b9cb-419ce00289b9" name="Changes" comment="finalizando atividade de PDI">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atividades/PDI/Aula_1/code5.py" beforeDir="false" afterPath="$PROJECT_DIR$/atividades/PDI/Aula_1/code5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atividades/PDI/Aula_1/code6.py" beforeDir="false" afterPath="$PROJECT_DIR$/atividades/PDI/Aula_1/code6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653771158707</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="finalizando atividade de PDI">
+      <created>1653874005449</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1653874005449</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,7 +213,8 @@
     <MESSAGE value="aula1 - atividade de classe" />
     <MESSAGE value="aula2 - atividade de classe" />
     <MESSAGE value="PDI" />
-    <option name="LAST_COMMIT_MESSAGE" value="PDI" />
+    <MESSAGE value="finalizando atividade de PDI" />
+    <option name="LAST_COMMIT_MESSAGE" value="finalizando atividade de PDI" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
